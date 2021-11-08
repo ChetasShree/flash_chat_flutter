@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1057986169134",
+    "project_id": "flash-chat-6d9b3",
+    "storage_bucket": "flash-chat-6d9b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057986169134:android:bad1ff02b100155eee92bf",
+        "android_client_info": {
+          "package_name": "co.ChetasShree.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057986169134-nu9gh7lhbtrifuil62tf30fhj27186fa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbGbQhiETbsKMIlWIWK9pF7LnmPveF5qE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057986169134-nu9gh7lhbtrifuil62tf30fhj27186fa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
